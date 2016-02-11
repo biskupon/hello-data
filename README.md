@@ -1,4 +1,4 @@
 # hello-data
-anything and everything related to data
+anything and everything
 ========================
-i love :coffee: :pizza:
+
